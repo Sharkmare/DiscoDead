@@ -1,0 +1,2 @@
+# DiscoDead
+wrap the discord
